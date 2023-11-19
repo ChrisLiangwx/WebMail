@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "host": "smtp.163.com",
+    "port": 465,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  },
+  "imap": {
+    "host": "imap.163.com",
+    "port": 993,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
